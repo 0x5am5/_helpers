@@ -3,6 +3,12 @@
 _helpers (Underscore Helpers) is a boring helper library for cross browser compatible helper
 functions that I cannot be bothered to rewrite.
 
+## Install
+
+```bash
+npm i @fakesamgregory/underscore-helpers
+```
+
 ## Examples
 
 Get 1 or more elements matching the selector
