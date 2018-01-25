@@ -1,11 +1,12 @@
 {
-  "name": "underscore-helpers",
+  "name": "@fakesamgregory/underscore-helpers",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "git": "git@github.com:fakesamgregory/_helpers.git",
   "author": "",
   "license": "ISC"
 }
