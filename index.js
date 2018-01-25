@@ -108,6 +108,10 @@ var UnderscoreHelpers = (function() {
     return this;
   };
 
+  _.prototype.find = function (_selector) {
+    return new _(this[0].querySelectorAll(_selector));
+  };
+
   return function(_selector) {
     var el = [_selector];
 
